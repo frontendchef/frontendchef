@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @frontendchef
+- ✌ Im a front end developer and share my knowledge on my youtube channel, check it out!
